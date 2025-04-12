@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".", // <- ESTA ES CLAVE, IMBÉCIL
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+    "dashboard": "Dashboard",
+    "numberMessagePerDay": "Number of messages per day",
+    "planMessageRemaining": "Message plan remaining",
+    "messagesRemain": "Messages remaining",
+    "usedMessage": "Messages used",
+    "weekActivity": "Weekly activity",
+    "activeLeads": "Active leads",
+    "earnedleads": "Leads won",
+    "numberConversations": "Number of conversations",
+    "dailyAverage": "Daily average",
+    "numberMessage": "Number of messages",
+    "monthBefore": "Previous month",
+    "newLeadsWeek": "New leads this week",
+    "conversionRate": "Conversion rate",
+    "messagePerDay": "Messages per day",
+    "mensualPlan": "Monthly plan",
+    "mostScheduled": "Most scheduled",
+    "avgSalesMonth": "Average sales per month",
+    "totalSales": "Total sales",
+    "mostScheduledTime": "Most scheduled time",
+    "avgSales": "Average sales",
+    "mostSaledProduct": "Top-selling product",
+    "avgSaleProduct": "Average sales per product",
+    "mostSaledProducts":"Best selling products"
+  }
+  
